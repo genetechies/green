@@ -1,0 +1,10 @@
+{
+  "name": "green",
+  "version": "1.0.0",
+  "description": "Green Muld | 绿康模具",
+  "main": "index.js",
+  "repository": "git@github.com:genetechies/green.git",
+  "author": "Oliver <matthrews@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
